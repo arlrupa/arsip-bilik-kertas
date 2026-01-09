@@ -36,19 +36,27 @@ document.addEventListener("DOMContentLoaded", () => {
       <p>
         Hal-hal yang dulu kita keluhin bareng sekarang malah jadi bagian dari cerita yang bikin kangen.
         Sekre yang biasanya rame, asbun yang nggak ada ujungnya, tawa random yang muncul tanpa alasan,
-        kayaknya nanti bakal kerasa sepi kalau itu semua nggak bisa kita rasain lagi. <br><br>
+        kayaknya nanti bakal kerasa sepi kalau itu semua udah nggak bisa kita rasain lagi. <br><br>
       </p>
 
       <p>
         Kenal kalian ngajarin aku banyak hal. Bukan cuma soal organisasi, tapi soal kebersamaan,
         sabar, dan bertahan bareng meskipun capek. Momen-momennya sederhana,
-        tapi entah kenapa susah banget buat dilupain. <br><br>
+        tapi bakalan susah banget buat dilupain. <br><br>
       </p>
+
+      <p>
+        Aku juga mau minta maaf.
+        Kalau selama ini ada sikap, kata-kata, atau keputusan aku
+        yang bikin kalian capek, kecewa, atau ngerasa nggak didengerin.
+        Aku belajar banyak dari semua itu, dan jujur, aku bersyukur pernah tumbuh bareng kalian, apa pun bentuknya.
+      </p> <br>
 
       <p>
         Walaupun ke depannya kita bakal jalan masing-masing dan nggak sesering dulu kumpul bareng,
         aku harap hubungan ini nggak ikut selesai. Tetap saling nyapa, saling inget,
-        dan jaga diri baik-baik di tempat kita masing-masing.
+        dan jaga diri baik-baik di tempat kita masing-masing. Aku mungkin nggak selalu ada di depan kalian, tapi kalau suatu saat 
+        kalian butuh aku, buat cerita, nanya, atau sekadar duduk diam, aku masih di sini yaa.
         Btw, ayo melukat jir. Kita wajib jalan-jalan minimal sekali, nggak ada alasan. <br><br>
       </p> 
 
@@ -67,6 +75,12 @@ document.addEventListener("DOMContentLoaded", () => {
         juga kayaknya, tapi senang banget bisa kenal dan sempat jalan bareng kalian di sini.
         Perjalanan kalian mungkin nggak selalu rapi, kadang capek, kadang kesel,
         kadang pengen nyerah, tapi nyatanya kalian masih bertahan dan terus jalan bareng. <br><br>
+      </p>
+
+      <p>
+        Aku juga mau minta maaf,
+        kalau selama ini aku kurang hadir, kurang peka, atau belum bisa jadi tempat bersandar yang nyaman, itu jadi catatan buat aku sendiri.
+        Dan kalau suatu hari kalian butuh aku atau kakak-kakak yang lain dalam bentuk apa pun, kita masih di sini. Cari aja ya.<br><br>
       </p>
 
       <p>
