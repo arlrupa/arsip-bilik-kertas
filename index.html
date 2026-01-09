@@ -1,0 +1,40 @@
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Inter:wght@400;700&family=Lora:ital,wght@0,400;1,500&display=swap" rel="stylesheet" />
+
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arsip Bilik Kertas</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="center-page">
+    <div class="bg-decoration">MEMORIES</div>
+
+    <div class="card-modern fade-in">
+      <div class="journal-tag">LAPORAN KHUSUS</div>
+      <h1 class="main-title">Dari <span class="blue-highlight">Bilik Kertas</span> Menuju <span class="blue-highlight">Bilik Rindu</span></h1>
+      <p class="subtitle-modern">Setiap berita punya masa lalu, dan setiap kolom punya cerita. Masukkan digit angkatanmu untuk memanggil kembali narasi yang pernah kita susun bersama.</p>
+
+      <form id="angkatanForm" class="form-modern">
+        <div class="input-wrapper">
+          <input type="number" id="angkatan" placeholder="25 / 26" required />
+          <label for="angkatan">ANGKATAN</label>
+        </div>
+
+        <button type="submit" class="btn-modern">
+          Buka Arsip
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </button>
+      </form>
+
+      <p id="error" class="error"></p>
+      <div class="footer-note"><span>© rupay</span> • <span>Dibuat dengan rindu</span></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
